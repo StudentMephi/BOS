@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | grep bin >&2
+cat | grep bin >&2 
