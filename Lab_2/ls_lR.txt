@@ -1,0 +1,10 @@
+.:
+total 4
+drw-rw-r--. 2 dan9ge dan9ge  22 Nov 3 12:46 dir
+-rw-r-----. 1 root      dan9ge   5 Nov 3 12:44 file
+-rw-------. 1 dan9ge dan9ge   0 Nov 3 12:50 file1
+-rw-rw-rw-. 1 dan9ge dan9ge   0 Nov 3 12:50 file2
+
+./dir:
+total 0
+-????????? ? ? ? ?            ? new_file
