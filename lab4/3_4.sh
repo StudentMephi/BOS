@@ -16,4 +16,4 @@ echo "${symbol_devices[*]}"
 block_devices=($(ls -l $1 | grep ^b | tr -s ' '))
 echo "Блочные устройства:"
 echo "${block_devices[*]}"
-IFS="$SaveIFS"
+IFS="$SaveIFS" 
