@@ -6,4 +6,4 @@ echo $HOME
 echo "Содержит обычных файлов"
 echo $usual_files
 echo "Содержит скрытых файлов"
-echo $hidden_files
+echo $hidden_files 
