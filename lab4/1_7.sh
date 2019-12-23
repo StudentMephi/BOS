@@ -10,4 +10,4 @@ echo "Время: " $time
 echo "Зарегистрированные пользователи:"
 echo "${users[*]}"
 echo "Время работы системы: " $server_time
-IFS="$SaveIFS"
+IFS="$SaveIFS" 
