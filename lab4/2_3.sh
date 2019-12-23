@@ -6,4 +6,3 @@ cat /tmp/zeros | tail -10
 echo " "
 cat /tmp/nozeros | head -10
 cat /tmp/nozeros | tail -10
-
