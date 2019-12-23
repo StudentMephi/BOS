@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'amount of arguments:' $#
+echo 'amount of arguments:' $#  
